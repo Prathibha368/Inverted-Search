@@ -1,0 +1,13 @@
+#INDEX;WORD;FILECOUNT;FILENAME;WORDCOUNT
+#5;file;1;f2.txt;1;#
+#7;hello;1;f1.txt;2;#
+#7;hi;2;f1.txt;1;f2.txt;1;#
+#7;how;1;f3.txt;1;#
+#7;here;1;f3.txt;1;#
+#8;idonno;1;f3.txt;1;#
+#12;mental;1;f3.txt;1;#
+#18;sadvika;1;f3.txt;1;#
+#22;when;1;f3.txt;1;#
+#22;where;1;f3.txt;1;#
+#22;who;1;f3.txt;1;#
+#26;123;1;f2.txt;1;#
